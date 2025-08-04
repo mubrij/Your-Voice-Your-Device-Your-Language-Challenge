@@ -1,6 +1,6 @@
 # Your-Voice-Your-Device-Your-Language-Challenge
 
-This notebook serves as a starter guide for audio transcription using the SeamlessM4T model, specifically tailored for the Sartify ITU Zindi Test Dataset. It demonstrates how to process audio files, perform automatic speech recognition (ASR) in Swahili ("swh"), and generate a submission file that achieves a score of approximately 0.48 on the Zindi leaderboard.
+This notebook serves as a starter guide for audio transcription using the SeamlessM4T model, specifically tailored for the Sartify ITU Zindi Test Dataset. It demonstrates how to process audio files, perform automatic speech recognition (ASR) in Swahili ("swh").
 
 # The notebook includes:
 
